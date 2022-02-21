@@ -1,8 +1,14 @@
 <!-- ### Hi there 👋 -->
 
-<div>
-  <img src="https://cdn-icons.flaticon.com/png/128/4701/premium/4701380.png?token=exp=1645466479~hmac=e15c4eba8f8933c9e7d7af1e4399d3e7"/>
-</div>
+
+<section style="display:flex;justify-content:space-around">
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/html-5.png"/>
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/css3.png"/>
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/javascript.png"/>
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/typescript.png"/>
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/php.png"/>
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/python.png"/>
+</section>
 
 <!--
 **Edsondomingos/Edsondomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
