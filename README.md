@@ -16,10 +16,13 @@
 ![snake gif](https://github.com/Edsondomingos/Edsondomingos/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsondomingos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Sou estudante de 👇:  
+### Aluno em... 👇:  
 * Sistemas para internet (./IFRN)  
 * Informatica para internet (./UFRN/IMD)
-* Cursos de programação online
+* Alura + Oracle Next Education
+* Gama Academy
+* Cursoemvideo.com
+* ...
 
 ### Você pode falar comigo por aqui ✌:
 <a href="http://linkedin.com/in/edson-domingos" target="_blank">
