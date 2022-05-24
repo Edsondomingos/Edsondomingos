@@ -13,6 +13,7 @@
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsondomingos&hide=issues,prs,stars&theme=tokyonight)
+![snake gif](https://github.com/Edsondomingos/Edsondomingos/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsondomingos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Sou estudante de 👇:  
