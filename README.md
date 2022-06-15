@@ -20,7 +20,6 @@
 * Sistemas para internet (./IFRN)  
 * Informatica para internet (./UFRN/IMD)
 * Alura + Oracle Next Education
-* Gama Academy
 * Cursoemvideo.com
 * ...
 
