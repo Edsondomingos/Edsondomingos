@@ -2,14 +2,17 @@
 
 ## Deixa eu me apresentar 😁...
 
-### Atualmente foco em👇:
+### Algumas tecnologias que uso:👇:
 <section style="display:flex;justify-content:space-around">
   <img width="50px" height="50px" src="https://img.icons8.com/color/2x/html-5.png" title="html">
   <img width="50px" height="50px" src="https://img.icons8.com/color/2x/css3.png" title="css">
   <img width="50px" height="50px" src="https://img.icons8.com/color/2x/javascript.png" title="javascript">
-  <!--- <img width="50px" height="50px" src="https://img.icons8.com/color/2x/typescript.png" title="typescript"> 
-  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/php.png" title="php">  -->
+  <!--- <img width="50px" height="50px" src="https://img.icons8.com/color/2x/typescript.png" title="typescript">  --> 
+  <img width="50px" height="50px" src="node.png" title="nodejs">
+  <img width="50px" height="50px" src="react-native.png" title="react-native">
+  <img width="50px" height="50px" src="https://img.icons8.com/color/2x/php.png" title="php">
   <img width="50px" height="50px" src="https://img.icons8.com/color/2x/python.png" title="python">
+  <img width="50px" height="50px" src="django.png" title="django">
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsondomingos&hide=issues,prs,stars&theme=tokyonight)
