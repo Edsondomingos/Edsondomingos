@@ -1,8 +1,8 @@
-## Deixa eu me apresentar 😁...
+## Deixe apresentar-me 😁
 
 ![capa](./capa.jpeg)
 
-# *SOU DESENVOLVEDOR WEB E MOBILE*
+#### *SOU DESENVOLVEDOR WEB E MOBILE*
 
 ### Algumas tecnologias que uso:👇:
 <section style="display:flex;justify-content:space-around">
@@ -17,17 +17,13 @@
   <img width="50px" height="50px" src="https://img.icons8.com/color/2x/python.png" title="python">
   <img width="50px" height="50px" src="django.png" title="django">
 </section>
-###### Sempre aprendendo novas!
+###### Sempre melhorando e aprendendo mais! ...
+
+### Alguns cursos:
+
+<img width="500px" src="estudos.png" title="python">
 
 
-
-
-### Aluno em... 👇:  
-* Sistemas para internet (./IFRN)  
-* Informatica para internet (./UFRN/IMD)
-* Alura + Oracle Next Education
-* Cursoemvideo.com
-* ...
 
 ### Você pode falar comigo por aqui ✌:
 <a href="http://linkedin.com/in/edson-domingos" target="_blank">
