@@ -34,7 +34,7 @@
 <a href="http://linkedin.com/in/edson-domingos" target="_blank">
   <img width="50px" height="50px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png" title="linkedin.com/in/edson-domingos"/>
 </a>
-<a href="http://linkedin.com/in/edson-domingos" target="_blank">
+<a href="mailto:edomingoswork@gmail.com" target="_blank">
   <img width="50px" height="50px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-gmail-social-media-justicon-flat-justicon.png" title="edomingoswork@gmail.com"/>
 </a>
 
